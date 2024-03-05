@@ -31,3 +31,44 @@ By 2016, Bellabeat had opened offices around the world and launched multiple pro
 Sršen knows that an analysis of Bellabeat’s available consumer data would reveal more opportunities for growth. She has asked the marketing analytics team to focus on a Bellabeat product and analyze smart device usage data in order to gain insight into how people are already using their smart devices. Then, using this information, she would like high-level recommendations for how these trends can inform Bellabeat marketing strategy.
 
 ---
+
+# Ask phase
+
+Sršen asks you to analyze smart device usage data in order to gain insight into how consumers use non-Bellabeat smart devices. She then wants you to select one Bellabeat product to apply these insights to in your presentation. These questions will guide your analysis:
+
+1. What are some trends in smart device usage?
+2. How could these trends apply to Bellabeat customers?
+3. How could these trends help influence Bellabeat marketing strategy?
+
+Analyzing trends in smart device usage provides valuable insights that can help Bellabeat better understand its customers, optimize its marketing strategies, and drive continued innovation in its product offerings.
+
+## What is the problem I'm trying to solve?
+
+Bellabeat aims to leverage data analysis to understand trends in smart device usage and their potential implications for Bellabeat customers and marketing strategies. The company seeks to explore how these trends can be analyzed and applied to enhance customer engagement and drive business growth.
+
+## Insights Driving Business Decisions
+
+**1. Understanding Smart Device Usage Trends**: Analyzing trends in smart device usage can provide insights into consumer behavior, preferences, and adoption patterns.
+
+**2. Customer-Centric Approach**: Identifying how these trends apply to Bellabeat customers can help tailor product offerings, features, and services to meet their evolving needs and expectations.
+
+**3. Marketing Strategy Optimization**: Leveraging insights from smart device usage trends can inform targeted marketing campaigns, messaging, and channel selection to effectively reach and engage Bellabeat's target audience.
+
+**4. Competitive Advantage**: Staying ahead of industry trends and consumer preferences can position Bellabeat as a leader in the wellness technology market and drive competitive advantage.
+
+## Consider key stakeholders
+
+- **Urška Sršen**: Cofounder and Chief Creative Officer of Bellabeat, responsible for product innovation and brand strategy.
+- **Sando Mur**: Cofounder of Bellabeat and key member of the executive team, involved in strategic decision-making and business planning.
+- **Bellabeat Marketing Analytics Team**: Responsible for analyzing data and providing insights to support marketing initiatives and business growth.
+- **Bellabeat Customers**: End-users of Bellabeat products whose preferences and behavior are crucial in shaping product development and marketing strategies.
+
+## A clear statement of the business task
+
+Analyze trends in smart device usage, explore their applicability to Bellabeat customers, and identify opportunities to enhance marketing strategies and drive business growth based on these insights.
+
+---
+
+# Prepare phase
+
+...
